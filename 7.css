@@ -1,0 +1,27 @@
+#grad{
+ 
+    border:2px solid red;
+    background-image: linear-gradient(rgb(27, 169, 235), rgb(113, 107, 114));
+  }
+
+h1{
+    background-color:wheat;
+    font-style: italic;
+    color:blue;
+}
+h2{
+    background-color:wheat;
+    font-style: italic;
+    color:blue;
+
+}
+h3{
+    background-color:wheat;
+    font-style: italic;
+    color:rgb(23, 71, 228);
+}
+a{
+    background-color:wheat;
+    font-style: italic;
+    color:rgb(23, 56, 241);
+}
